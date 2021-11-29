@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666382513194",
+    "project_id": "bp-monitor-8a2d4",
+    "storage_bucket": "bp-monitor-8a2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666382513194:android:b069e4931bbcc241123f53",
+        "android_client_info": {
+          "package_name": "com.sukhdeep75.bp_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666382513194-0n0nh0i3knci3udtle0pfc3bgnksh553.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-UGA77thwatMz7OEs6UN2xqNRA9pfWOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666382513194-0n0nh0i3knci3udtle0pfc3bgnksh553.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
